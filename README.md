@@ -1,4 +1,4 @@
-# StockAI Vietnam – Hệ thống Hỗ trợ Đầu tư Chứng khoán
+# HV INVEST – Hệ thống Hỗ trợ Đầu tư Chứng khoán
 
 ## Cài đặt và Chạy
 
