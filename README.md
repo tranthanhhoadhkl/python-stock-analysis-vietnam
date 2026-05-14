@@ -38,11 +38,10 @@ stock_app/
 | `POST /api/backtest` | Backtest RF vs Buy&Hold |
 | `GET /api/compare?symbols=VCB,BID,VNM` | So sánh nhiều mã |
 | `GET /api/glossary` | Từ điển thuật ngữ |
-<img width="1364" height="756" alt="Ảnh màn hình 2026-04-30 lúc 16 56 04" src="https://github.com/user-attachments/assets/d9f585d0-9890-4280-8e47-88250d2db5f1" />
+<img width="1366" height="766" alt="Ảnh màn hình 2026-05-03 lúc 08 56 51" src="https://github.com/user-attachments/assets/b299935e-2a95-4033-97e4-11734db445b0" />
+<img width="1391" height="771" alt="Ảnh màn hình 2026-05-14 lúc 14 55 05" src="https://github.com/user-attachments/assets/ad9f4dfc-8cfa-459f-a0ea-b1492ec9b47c" />
+<img width="1391" height="771" alt="Ảnh màn hình 2026-05-14 lúc 14 54 55" src="https://github.com/user-attachments/assets/28ec30ef-5776-4c09-b7b3-3ee93ce8ef92" />
 
-<img width="1457" height="770" alt="Ảnh màn hình 2026-04-28 lúc 08 28 04" src="https://github.com/user-attachments/assets/c3a002e4-a130-4bda-9c56-d3b390230b78" />
-<img width="1457" height="729" alt="Ảnh màn hình 2026-04-28 lúc 08 27 55" src="https://github.com/user-attachments/assets/7aebeca2-2c00-4ad0-a177-e5063d7227f8" />
-<img width="1457" height="729" alt="Ảnh màn hình 2026-04-28 lúc 08 27 46" src="https://github.com/user-attachments/assets/035ce7b8-b6c9-4113-b314-8e13a9d1c5a3" />
 
 ## Logic phân tích
 
