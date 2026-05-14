@@ -38,11 +38,11 @@ stock_app/
 | `POST /api/backtest` | Backtest RF vs Buy&Hold |
 | `GET /api/compare?symbols=VCB,BID,VNM` | So sánh nhiều mã |
 | `GET /api/glossary` | Từ điển thuật ngữ |
-<img width="1366" height="766" alt="Ảnh màn hình 2026-05-03 lúc 08 56 51" src="https://github.com/user-attachments/assets/b299935e-2a95-4033-97e4-11734db445b0" />
+
 <img width="1391" height="771" alt="Ảnh màn hình 2026-05-14 lúc 14 55 05" src="https://github.com/user-attachments/assets/ad9f4dfc-8cfa-459f-a0ea-b1492ec9b47c" />
 <img width="1391" height="771" alt="Ảnh màn hình 2026-05-14 lúc 14 54 55" src="https://github.com/user-attachments/assets/28ec30ef-5776-4c09-b7b3-3ee93ce8ef92" />
 
-
+<img width="1366" height="766" alt="Ảnh màn hình 2026-05-03 lúc 08 56 51" src="https://github.com/user-attachments/assets/b299935e-2a95-4033-97e4-11734db445b0" />
 ## Logic phân tích
 
 - **Nhóm ngân hàng** (BID, VCB, CTG, MBB...): Random Forest Classifier (100 trees)
